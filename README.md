@@ -1,3 +1,3 @@
 # test_pj
 
-Projekt poświęcony testowaniu technologii gitworkfolw w budowie kodu.
+Projekt poświęcony testowaniu technologii gitworkflow w budowie kodu.
